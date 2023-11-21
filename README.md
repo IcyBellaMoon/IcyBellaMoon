@@ -1,5 +1,5 @@
 <a href="https://ibb.co/yBXJKpf">
-    <img src="https://i.ibb.co/yBXJKpf/Bella-logo.png" alt="Bella-logo" border="0" width="300" height="200">
+    <img src="https://i.ibb.co/yBXJKpf/Bella-logo.png" alt="Bella-logo" border="0" width="700" height="500">
 </a>
 
 # 🦇 Welcome to the Cryptic Abyss! 👨‍💻🎮
