@@ -1,4 +1,6 @@
-<a href="https://ibb.co/yBXJKpf"><img src="https://i.ibb.co/yBXJKpf/Bella-logo.png" alt="Bella-logo" border="0"></a>
+<a href="https://ibb.co/yBXJKpf">
+    <img src="https://i.ibb.co/yBXJKpf/Bella-logo.png" alt="Bella-logo" border="0" width="300" height="200">
+</a>
 
 # 🦇 Welcome to the Cryptic Abyss! 👨‍💻🎮
 
