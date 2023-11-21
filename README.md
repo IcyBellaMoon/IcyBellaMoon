@@ -36,6 +36,10 @@ Embark on mystifying quests through immersive games and weave arcane spells in t
   - Cyberpunk 2077
   - League of Legends
   - The Witcher 3
+  - Volarant
+  - Minecraft
+  - Apex
+  - Call of Duty
 
 - **Coding Weapons:**
   - Pythonic Enchantments
