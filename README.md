@@ -22,7 +22,7 @@ Greetings, fellow digital wanderers! 🚀 I am [KindredBella], your guide throug
 ## 🌟 VTuber Persona
 
 - **VTuber Name:** KindredBella
-- **Avatar:** 🧙‍♂️✨ <img>https://booth.pximg.net/72455a58-f6b2-4267-b194-96cedd142f8e/i/5241526/f7525222-a3d4-4522-bbc9-abb5591f4edd_base_resized.jpg</img>
+- **Avatar:** 🧙‍♂️✨ <p align="center"> <img  width="500" src="https://booth.pximg.net/72455a58-f6b2-4267-b194-96cedd142f8e/i/5241526/f7525222-a3d4-4522-bbc9-abb5591f4edd_base_resized.jpg" /></p>
 
 ## 🕹️ Player Stats
 
