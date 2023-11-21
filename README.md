@@ -10,7 +10,7 @@ Greetings, mysterious spirits that wander the otherworldly terrains of the vast 
 
 - **VTuber Name:** **KindredBella** 🦇
 - **Avatar:** 🧛‍♂️✨ ![KindredBella Avatar](https://booth.pximg.net/72455a58-f6b2-4267-b194-96cedd142f8e/i/5241526/f7525222-a3d4-4522-bbc9-abb5591f4edd_base_resized.jpg)
-- **VTuber About me:** 🦇
+# 🦇 Vtuber About Me! 🦇
 Introducing the enigmatic VTuber, the sovereign ruler of the 13th Demon Realm – behold the captivating presence of Nocturna Vespera! 🦇👑
 
 In the depths of the digital shadows, KindRed Bella as the immortal queen, seamlessly merging the mystique of a vampire with the ominous allure of a demon. Her dark charisma and ethereal aura make her a formidable ruler, commanding both the realms of the night and the digital expanse.
