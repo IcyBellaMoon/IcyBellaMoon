@@ -1,4 +1,3 @@
-<img width="500" height="150" src="[https://ibb.co/FDqr40c]"/>
 # 🦇 Welcome to the Digital Abyss! 👨‍💻🎮
 
 Greetings, denizens of the digital realm! 🌌 I am [Your VTuber Name], your nocturnal guide through the realms of gaming, coding, and virtual mischief. Join me on this unearthly journey as we navigate pixelated landscapes and conjure spells in the code abyss!
