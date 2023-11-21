@@ -15,27 +15,4 @@ Let's connect and embark on an exciting journey together! Feel free to reach out
 IcyBellaMoon/IcyBellaMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Meet *Your Name*
 
-```javascript
-const aboutMe = {
-  name: 'Bella',
-  age: 24,
-  location: 'SA, Australia',
-  education: 'year 12 highschool, codecademy',
-  occupation: 'Passionate Software Developer',
-  interests: ['Coding', 'Reading', 'Traveling'],
-  skills: ['JavaScript', 'React', 'Node.js ', 'Java'],
-  languages: ['English', ],
-  socialMedia: {
-    twitter: '@your_twitter_handle',
-    github: 'IcyBellaMoon',
-    linkedin: 'your_linkedin_profile'
-  }
-};
-
-console.log(`Welcome to my world! I'm ${aboutMe.name}, a ${aboutMe.age}-year-old developer based in ${aboutMe.location}. With a degree in ${aboutMe.education}, I spend my days crafting elegant solutions to complex problems.
-
-My coding journey has led me to master technologies like ${aboutMe.skills.join(', ')} and express my creativity through projects that reflect my diverse interests, including ${aboutMe.interests.join(', ')}.
-
-Let's connect! You can find me on [Twitter](${aboutMe.socialMedia.twitter}), [GitHub
