@@ -11,19 +11,19 @@
       margin: 0; /* Remove default margin */
     }
 
-    #header {
+  #header {
       text-align: center;
       padding: 50px;
       background-image: linear-gradient(to right, #2b0b3f, #1c0652); /* Gradient for a vampire theme */
       border-bottom: 2px solid #ff4444; /* Accent color for border */
     }
 
-    #header h1 {
+  #header h1 {
       font-size: 2.5em;
       margin-bottom: 0;
     }
 
-    /* Add more styles as needed for the rest of your content */
+  /* Add more styles as needed for the rest of your content */
   </style>
 </head>
 
@@ -34,7 +34,7 @@
   <p>Greetings, mysterious spirits that wander the otherworldly terrains of the vast cyber expanse! 🌌 I am [YourVampireUsername], your ethereal guide through the obscure realms of gaming, coding, and the mystical arts of the virtual domain. Accompany me as we embark on a vampiric odyssey, weaving enchantments in the enigmatic code abyss and navigating pixelated landscapes cloaked in eternal night! Join the nocturnal adventure and let the shadows of the digital realm embrace you!</p>
 </div>
 
-<!-- Your content goes here -->
+<-- Your content goes here -->
 
 ## 🧛 Vampire Details
 
