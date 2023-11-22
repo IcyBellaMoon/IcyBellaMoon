@@ -1,26 +1,21 @@
-<div style="text-align: center;">
+<div align="center">
     <a href="https://ibb.co/yBXJKpf">
         <img src="https://i.ibb.co/mFG7d0D/Bella-logo.png" alt="Bella-logo" border="0" style="max-width: 100%;">
     </a>
 </div>
 
-
 # 🦇 Welcome to the Cryptic Abyss! 👨‍💻🎮
 
-
-Greetings, mysterious spirits that wander the otherworldly terrains of the vast cyber expanse! 🌌 I am IcyBella, your ethereal guide through the obscure realms of gaming, coding, and the mystical arts of the virtual domain. Accompany me as we embark on a vampiric odyssey, weaving enchantments in the enigmatic code abyss and navigating pixelated landscapes cloaked in eternal night! Join the nocturnal adventure and let the shadows of the digital realm embrace you!
-
-
-
+Greetings, nocturnal wanderers of the mystical cyber expanse! 🌌 I am IcyBella, your ethereal guide through the enigmatic realms of gaming, coding, and the arcane arts of the virtual domain. Join me on a vampiric odyssey, weaving enchantments in the code abyss and navigating pixelated landscapes cloaked in eternal night! Let the shadows of the digital realm embrace you!
 
 ## 👹 Vampire Demon Persona
 
 - **VTuber Name:** **KindredBella** 🦇
 - **Avatar:** 🧛‍♂️✨ ![KindredBella Avatar](https://booth.pximg.net/72455a58-f6b2-4267-b194-96cedd142f8e/i/5241526/f7525222-a3d4-4522-bbc9-abb5591f4edd_base_resized.jpg)
-# 🦇 Vtuber About Me! 🦇
-Introducing the enigmatic VTuber, the sovereign ruler of the 13th Demon Realm – behold the captivating presence of Nocturna Vespera! 🦇👑
 
-In the depths of the digital shadows, KindRed Bella as the immortal queen, seamlessly merging the mystique of a vampire with the ominous allure of a demon. Her dark charisma and ethereal aura make her a formidable ruler, commanding both the realms of the night and the digital expanse.
+# 🦇 Vtuber About Me! 🦇
+
+Behold Nocturna Vespera, the sovereign ruler of the 13th Demon Realm! 🦇👑 In the digital shadows, KindRed Bella emerges as the immortal queen, seamlessly merging the mystique of a vampire with the ominous allure of a demon. Her dark charisma and ethereal aura make her a formidable ruler, commanding both the realms of the night and the digital expanse.
 
 Draped in regal attire, Bella's avatar exudes a blend of vampiric elegance and demonic grandeur, captivating her audience with every virtual gesture. Her virtual realm extends beyond mortal comprehension, and as the sovereign of the 13th Demon Realm, she weaves intricate spells in the code abyss, casting a mesmerizing web over the digital landscape.
 
@@ -80,3 +75,8 @@ Let's converge in the shadows! Join my mystical gathering on social platforms:
 ## 🌌 Embrace the Digital Occult! 💀🚀
 
 Step into the abyss of games, code, and virtual mysteries! Subscribe to my YouTube enclave, join the Twitch coven, and let the nocturnal adventures transcend reality! ✨🎮
+
+
+
+
+
