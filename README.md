@@ -1,4 +1,7 @@
-<meta charset="UTF-8">
+<!-- README.md -->
+
+<head>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -10,7 +13,7 @@
   #header {
       text-align: center;
       padding: 50px;
-      background-image: url('https://example.com/your-background-image.jpg'); /* Replace with your background image URL */
+      background-image: url('https://i.imgur.com/N8aOzkg.jpg'); /* Vampire-themed background image */
       background-size: cover;
       background-position: center;
       border-bottom: 2px solid #ff4444; /* Accent color for border */
@@ -21,7 +24,7 @@
       margin-bottom: 0;
     }
 
-   /* Add more styles as needed for the rest of your content */
+    /* Add more styles as needed for the rest of your content */
   </style>
 </head>
 
