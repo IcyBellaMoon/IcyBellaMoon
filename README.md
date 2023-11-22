@@ -1,7 +1,37 @@
-<head>
-  <meta charset="UTF-8">
+<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #1a1a1a; /* Dark background color */
+      color: #ffffff; /* Light text color */
+      font-family: 'Arial', sans-serif; /* Choose your preferred font-family */
+    }
+
+  #header {
+      text-align: center;
+      padding: 50px;
+      background-image: url('https://example.com/your-background-image.jpg'); /* Replace with your background image URL */
+      background-size: cover;
+      background-position: center;
+      border-bottom: 2px solid #ff4444; /* Accent color for border */
+    }
+
+  #header h1 {
+      font-size: 2.5em;
+      margin-bottom: 0;
+    }
+
+   /* Add more styles as needed for the rest of your content */
+  </style>
 </head>
+
+<body>
+
+<div id="header">
+  <h1>🦇 Welcome to the Cryptic Abyss! 🌌</h1>
+  <p>Greetings, mysterious spirits that wander the otherworldly terrains...</p>
+</div>
+
 <div align="center">
     <a href="https://ibb.co/yBXJKpf">
         <img src="https://i.ibb.co/mFG7d0D/Bella-logo.png" alt="Bella-logo" border="0" style="max-width: 100%;">
